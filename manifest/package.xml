@@ -4,6 +4,10 @@
         <members>Account_Contact_Trigger</members>
         <name>Flow</name>
     </types>
+    <types>
+        <members>ClientOne__c</members>
+        <name>CustomObject</name>
+    </types>
     
     <version>59.0</version>
 </Package>
